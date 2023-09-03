@@ -1,0 +1,12 @@
+header {
+    height: 200px;
+}
+
+table, td, th {
+    border: solid 1px black;
+}
+
+table{
+    margin: 0 auto;
+}
+
